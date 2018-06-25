@@ -4,7 +4,7 @@ description: This is a repository of rows APIs, self-contained as a Github repos
   with HTML and YAML representations of the APIs and their surrounding operations.
 image: http://template.streamdata.gallery/assets/rows.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://rows.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
@@ -28,7 +28,7 @@ include:
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/rows/master/_listings/link-fish/apis.yaml
 - name: Postmark
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/rows/master/_listings/postmark/apis.yaml
-- name: taxamo
+- name: Taxamo
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/rows/master/_listings/taxamo/apis.yaml
 - name: Browshot.com
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/rows/master/_listings/browshot-com/apis.yaml
